@@ -1,7 +1,7 @@
 ---
 layout: single
 
-title: "01 딥러닝 소개"
+title: "딥러닝 소개"
 
 date: 2023-09-05 20:00:00 +0900
 lastmod: 2023-09-05 20:00:00 +0900 # sitemap.xml에서 사용됨
@@ -9,14 +9,15 @@ lastmod: 2023-09-05 20:00:00 +0900 # sitemap.xml에서 사용됨
 author_profile: true
 
 header:
-  overlay_image: 
+  overlay_image: https://user-images.githubusercontent.com/91832324/229981423-3a9c5404-403f-4ea8-a721-e941b2f41866.jpg
 
   overlay_filter: 0.5 # 투명도
 
 categories: 
-  - College Python
+  - College Deep Learning 
 
 tags: 
+    - Deep Learning 
     - Python
     - College
 
