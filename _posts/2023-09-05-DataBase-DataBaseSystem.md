@@ -1,7 +1,7 @@
 ---
 layout: single
 
-title: "01 데이터베이스 시스템"
+title: "데이터베이스 시스템"
 
 date: 2023-09-05 16:00:00 +0900
 lastmod: 2023-09-05 16:00:00 +0900 # sitemap.xml에서 사용됨
